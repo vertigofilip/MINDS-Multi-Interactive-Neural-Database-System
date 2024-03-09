@@ -10,9 +10,9 @@ window.geometry('300x300')
 input_frame = ttk.Frame(master=window)
 text_input = ttk.Entry(master = input_frame)
 confirm_button = ttk.Button(master = input_frame, text='send')
-input_frame.pack(side='left', padx=10)
-text_input.pack(side='left')
-confirm_button.pack()
+text_input.pack(side='left', padx=10)
+confirm_button.pack(side='left')
+input_frame.pack()
 
 #run
 window.mainloop()

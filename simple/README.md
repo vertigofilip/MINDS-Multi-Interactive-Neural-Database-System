@@ -9,3 +9,9 @@ Database element:
 | user | name | info about user | na | It holds information about user |
 | feedback | summary | opinion | who said opinion | It holds opinions on AI from users. It can be used to improve the AI |
 | intentions | type of intention | content | for who | Those are the things, that AI will do. It is holding more and less abstract tasks based on user requests, and other intentions |
+
+The input for text:
+| username | massage | timestamp |
+| vertigp | How tall is the Eiffel tower? | 1710014077 |
+| added by interface, or by input AI (default "unknown") | from user | added by input AI |
+
