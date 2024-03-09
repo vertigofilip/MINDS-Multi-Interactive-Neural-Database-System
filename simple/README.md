@@ -12,6 +12,7 @@ Database element:
 
 The input for text:
 | username | massage | timestamp |
+|----------|----------|----------|
 | vertigp | How tall is the Eiffel tower? | 1710014077 |
 | added by interface, or by input AI (default "unknown") | from user | added by input AI |
 
