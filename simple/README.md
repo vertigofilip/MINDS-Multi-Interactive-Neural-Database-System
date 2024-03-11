@@ -1,4 +1,5 @@
-This version is utilising siple version of this arhitecture. Text input is just plain text. Nex the ai element modifies it ading 
+The simple version of MINDS is based on SQL database that contains data in format explained below.
+The first part os MINDS AI that should be created is simple text input. This wil than allow to create materials for next parts of this AI.
 
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
