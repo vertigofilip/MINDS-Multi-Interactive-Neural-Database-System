@@ -1,1 +1,1 @@
-I planed the complex version to use hierarchical database like in the picture in the folder. It is going to have advantages, that it can get more informations from structure of database, and enable more flexibility of AI.
+I planned the complex version to use a hierarchical database like in the picture in the folder. It is going to have advantages, such that it can get more information from the structure of the database, and enable more flexibility of AI.

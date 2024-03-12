@@ -1,5 +1,5 @@
-The simple version of MINDS is based on SQL database that contains data in format explained below.
-The first part os MINDS AI that should be created is simple text input. This wil than allow to create materials for next parts of this AI.
+The simple version of MINDS is based on SQL database that contains data in the format explained below. 
+The first part os MINDS AI that should be created is simple text input. This will then allow us to create materials for the next parts of this AI.
 
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
