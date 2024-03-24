@@ -1,6 +1,20 @@
 # MINDS-Multi-Interactive-Neural-Database-System
-MINDS is a project aimed at creating reliable and powerful open-source AI. To do so it project is going to use many AI modules and scripts connected by a database and exchange information by using different database entries. This will allow to to teach logic and information severalty as well as let AI analyze the information it is being provided. This will also allow generating a lot of training material using algorithms that utilize this data the AI is going to work on.
 
-The AI is going to have different versions classified based on the database. The simple version is going to be based on sql database with a simple structure and is going to be the first one to be implemented as a proof of concept.
+## Overview
+MINDS is an ambitious open-source project focused on developing a robust, modular AI system. Our goal is to construct a powerful artificial intelligence framework that leverages a constellation of AI modules and scripts, interconnected through a sophisticated database infrastructure. 
+This system is designed to facilitate the seamless exchange of information, enabling advanced logic teaching and data analysis capabilities. 
+By harnessing diverse AI algorithms, MINDS aims to generate an extensive repository of training materials, enriching the AI's learning process and operational efficiency.
 
-The entire project is based AI elements acting on database creating, modifying and deleting those elements. This will facilitate the breakdown of information, tasks, etc. and their combinations and individual analyses.
+## Architecture
+At the heart of MINDS is its modular design, where each component or module operates on a shared database to perform various tasks such as data creation, modification, and deletion. This architecture not only simplifies the breakdown and analysis of information but also enhances the system's flexibility and scalability including fsilitating of distributed computing, and ease of starting the priject.
+
+## Versioning
+MINDS will evolve through multiple versions, each distinguished by its underlying database architecture and complexity:
+
+Simple Version: The initial proof of concept will utilize an SQL database with a straightforward schema, laying the groundwork for more complex iterations.
+
+## Getting Started
+The project doesn't have any working prototype yet, but we are working on that.
+
+## Contributing
+We warmly welcome contributions from the community. Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is invaluable to MINDS. Please refer to our CONTRIBUTING.md for detailed information on how to get started.
