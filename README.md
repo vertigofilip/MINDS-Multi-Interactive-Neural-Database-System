@@ -1,8 +1,9 @@
 # MINDS-Multi-Interactive-Neural-Database-System
 
 ## Overview
-MINDS is an ambitious open-source project focused on developing a robust, modular AI system. Our goal is to construct a powerful artificial intelligence framework that leverages a constellation of AI modules and scripts, interconnected through a sophisticated database infrastructure. 
-This system is designed to facilitate the seamless exchange of information, enabling advanced logic teaching and data analysis capabilities. 
+MINDS is an ambitious open-source project focused on developing a robust, modular AI system. Our goal is to construct a powerful artificial intelligence framework that leverages a constellation of AI modules and scripts, interconnected through a flexable database infrastructure. 
+This will help to work on data in more flexable whay by allowing to cobine, devide and modify data and intentions freely in order to better ynderstand them and act on them in more advansed whay.
+This system is designed to facilitate the seamless exchange of information, enabling advanced logic teaching and data analysis capabilities, as well as separating data from logic. 
 By harnessing diverse AI algorithms, MINDS aims to generate an extensive repository of training materials, enriching the AI's learning process and operational efficiency.
 
 ## Architecture
