@@ -54,5 +54,37 @@ Alan Turing•Imagine a scenario where AI develops emotions and forms its own so
 INSERT INTO work_space VALUES (memory, User wants to generate a storry about a scenario where AI develops emotions and forms its own society by the year 2100, user/Alan Turing, 2407031015);
 Stephen Hawking•Write an essay on the potential risks and benefits of uploading human consciousness into a digital format by 2200.•2407031030
 INSERT INTO work_space VALUES (memory, User wants to an essay on the potential risks and benefits of uploading human consciousness into a digital format by 2200, user/Stephen Hawking, 2407031030);
-
-
+Jane Austen•Can you provide a summary of the key themes in "Pride and Prejudice"?•2407031100
+INSERT INTO work_space VALUES (memory, User wants to generate  a summary of the key themes in "Pride and Prejudice", user/Jane Austen, 2407031100);
+Albert Einstein•Explain the theory of relativity in simple terms.•2407031115
+INSERT INTO work_space VALUES (memory, User wants to generate explanaition of the theory of relativity in simple terms, user/Albert Einstein, 2407031115);
+Leonardo da Vinci•Describe the techniques used in your painting "Mona Lisa" and its historical significance.•2407031130
+INSERT INTO work_space VALUES (memory, User wants to generate description of  the techniques used in your painting "Mona Lisa" and its historical significance, user/Leonardo da Vinci, 2407031130);
+Martin Luther King Jr.•What were the main goals of the Civil Rights Movement in the 1960s?•2407031145
+INSERT INTO work_space VALUES (memory, User wants to generate list of the main goals of the Civil Rights Movement in the 1960s, user/Martin Luther King Jr., 2407031145);
+Marie Curie•How did your research contribute to our understanding of radioactivity?•2407031200
+INSERT INTO work_space VALUES (memory, User wants to generate overviev of my research contribiution to our understanding of radioactivity, user/Marie Curie, 2407031200);
+Charles Darwin•Could you explain the main principles of natural selection and their impact on biology?•2407031215
+INSERT INTO work_space VALUES (memory, User wants to generate explanation of the main principles of natural selection and their impact on biology, user/Charles Darwin, 2407031215);
+Emily Dickinson•Provide an analysis of the themes and symbolism in your poem "Hope is the thing with feathers".•2407031230
+INSERT INTO work_space VALUES (memory, User wants to generate an analysis of the themes and symbolism in your poem "Hope is the thing with feathers", user/Emily Dickinson, 2407031230);
+Isaac Newton•What were your contributions to the field of physics, particularly in mechanics and optics?•2407031245
+INSERT INTO work_space VALUES (memory, User wants to generate lists of my contributions to the field of physics, particularly in mechanics and optics, user/Isaac Newton, 2407031245);
+Marie Curie•Explain the process of discovering radium and its implications for science and medicine.•2407031330
+INSERT INTO work_space VALUES (memory, User wants to generate explanaition of the the process of discovering radium and its implications for science and medicine, user/Marie Curie,2407031330 );
+Albert Einstein•What are the key concepts of the theory of general relativity and how do they differ from special relativity?•2407031400
+INSERT INTO work_space VALUES (memory, User wants to generate list of key concepts of the theory of general relativity and how do they differ from special relativity, user/Albert Einstein, 2407031400);
+Jane Austen•Discuss the social conventions and gender roles depicted in "Emma" and their relevance to contemporary society.•2407031415
+INSERT INTO work_space VALUES (memory, User wants to discuss the social conventions and gender roles depicted in "Emma" and their relevance to contemporary society, user/Jane Austen, 2407031415);
+Martin Luther King Jr.•Can you summarize the key points of your "I Have a Dream" speech and its historical significance?•2407031430
+INSERT INTO work_space VALUES (memory, User wants to generate summary of the key points of your "I Have a Dream" speech and its historical significance, user/Martin Luther King Jr., 2407031430);
+Nikola Tesla•Explain the concept of alternating current (AC) and its importance in electricity distribution.•2407031445
+INSERT INTO work_space VALUES (memory, User wants to generate explanation of concept of alternating current (AC) and its importance in electricity distribution, user/Nikola Tesla, 2407031445);
+Emily Dickinson•Discuss the themes of mortality and spirituality in your poetry, focusing on poems such as "Because I could not stop for Death".•2407031500
+INSERT INTO work_space VALUES (memory, User wants to discuss the themes of mortality and spirituality in your poetry, focusing on poems such as "Because I could not stop for Death", user/Emily Dickinson, 2407031500);
+Charles Darwin•What evidence did you gather to support the theory of evolution by natural selection? How did this theory revolutionize biology?•2407031515
+INSERT INTO work_space VALUES (memory, User wants to generate a list of evidence to support the theory of evolution by natural selection, user/Charles Darwin, 2407031515);INSERT INTO work_space VALUES (memory, User wants to generate explanation of how evolution by natural selection revolutionize biology, user/Charles Darwin, 2407031515);
+Frida Kahlo•Describe the influence of Mexican culture and indigenous traditions on your artwork, particularly in paintings like "The Broken Column".•2407031530
+INSERT INTO work_space VALUES (memory, User wants to generate explanation of the influence of Mexican culture and indigenous traditions on your artwork, particularly in paintings like "The Broken Column", user/Frida Kahlo, 2407031530);
+Mahatma Gandhi•Explain the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement.•2407031545
+INSERT INTO work_space VALUES (memory, User wants to generate explanation of the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement, user/Mahatma Gandhi, 2407031545);
