@@ -2,6 +2,7 @@ The simple version of MINDS is based on SQL database that contains data in the f
 The first part os MINDS AI that should be created is simple text input. This will then allow us to create materials for the next parts of this AI.
 
 List of elements to do:
+
 in progress:
 - user input
 
