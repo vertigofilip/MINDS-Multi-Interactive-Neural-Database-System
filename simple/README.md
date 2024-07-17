@@ -22,6 +22,7 @@ additional To Do:
 - immage output
 - GPIO input
 - GPIO output
+- scheduler
 
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
@@ -51,3 +52,21 @@ example filling missing data:
 |----------|----------|----------|
 | Sherlok Holms•At 9:00 a.m. the British ambassador to Berlin Nevile Henderson is instructed by the Cabinet to deliver an ultimatum to Germany which expired without answer at 11:00 a.m.•1710071499 | INSERT INTO table_name VALUES (memory, Nevile Henderson position, Nevile Henderson was British ambassador to Berlin ,Sherlok Holms, 1710071499); INSERT INTO table_name VALUES (memory, Nevile Henderson task, Nevile Henderson was instructed by the Cabinet to deliver an ultimatum to Germany, Sherlok Holms, 1710071499); INSERT INTO table_name VALUES (memory, reacrion to ultimatum, ultimatum send from Nevile Henderson to Germany expired at 11:00 without reply, Sherlok Holms, 1710071499);
  |  |
+
+ | element | function | comment |
+|----------|----------|----------|
+| user input | This input can cuse generatipon of task element |  |
+| memory to data converter | this scripts is generating small pices of informations based on memories |  |
+| memory to task converter | this scripts is generating tasks based on memories |  |
+| data analyser | this scripts is braking down and combining data elements to analize them | there are going to be more than one |
+| task analyser | this scripts breaks down task to create simple tasks, that can be fufiled by other scripts |  |
+| text output | this scripts is generating text oiutput |  |
+| text input | This input is ment wot inputing data without sreating tasaks | might removed, and replaced with something else |
+| comaln line input | relativliy simple and low cost method of interacting with operating system |  |
+| comand line output | relativliy simple and low cost method of interacting with operating system |  |
+| screen input | input used for browsing internet | alternative specific interfaces are going to be added, this is generic interface |
+| immage input | this input is ment to accept files, and camera input for use to identify objects, and other immage oriented tasks |  |
+| immage output | immage generating script | the description of immage is going to be build using descriptions of element of that immage until description is detailed enouth for that script |
+| GPIO input | relativliy simple and low cost method of controling simple electronics like servo mechanism, leds, etc  |  |
+| GPIO output | relativliy simple and low cost method of reciving data from electronics like distance sensors, co2 detectors, load cels, etc |  |
+| scheduler | this is going to be cost effective whay of setting tasks to be done in the future using seperete database using timer to put correct tasks back to main database at the right moment | this is going to prevent tasks scheduled from taking up time of other scripts |
