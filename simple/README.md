@@ -1,6 +1,25 @@
 The simple version of MINDS is based on SQL database that contains data in the format explained below. 
 The first part os MINDS AI that should be created is simple text input. This will then allow us to create materials for the next parts of this AI.
 
+List of elements to do:
+in progress:
+- user input
+main To Do:
+- memory to data converter
+- memory to task converter
+- data analyser
+- task analyser
+- text output
+additional To Do:
+- text input
+- comaln line input
+- comand line output
+- screen input
+- immage input
+- immage output
+- GPIO input
+- GPIO output
+
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
 |----------|----------|----------|----------|----------|----------|
