@@ -4,12 +4,14 @@ The first part os MINDS AI that should be created is simple text input. This wil
 List of elements to do:
 in progress:
 - user input
+
 main To Do:
 - memory to data converter
 - memory to task converter
 - data analyser
 - task analyser
 - text output
+
 additional To Do:
 - text input
 - comaln line input
