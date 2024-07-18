@@ -29,8 +29,8 @@ Database element:
 |----------|----------|----------|----------|----------|----------|
 | memory | topic of memory | message or conversation | who said, or sides of conversation | when did the think happen | It is holding individual information from input or other sources |
 | information | topic | information | list of sources | when did the information was last updated | Well supported general information, that the AI uses in generation iof response |
-| grammar | gametic word or symbol | pattern | na | date of last update | Used for structuring output, and perhaps for input, not in first version |
-| user | name | info about user | na | date of creation | It holds information about user |
+| grammar | gametic word or symbol | pattern | n/a | date of last update | Used for structuring output, and perhaps for input, not in first version |
+| user | name | info about user | n/a | date of creation | It holds information about user |
 | feedback | summary | opinion | who said opinion | date of creation | It holds opinions on AI from users. It can be used to improve the AI |
 | intentions | type of intention | content | for who | date of creation | Those are the things, that AI will do. It is holding more and less abstract tasks based on user requests, and other intentions |
 
