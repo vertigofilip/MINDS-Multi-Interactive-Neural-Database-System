@@ -51,7 +51,7 @@ example filling missing data:
 | input | output | comment |
 |----------|----------|----------|
 | Sherlok Holms•At 9:00 a.m. the British ambassador to Berlin Nevile Henderson is instructed by the Cabinet to deliver an ultimatum to Germany which expired without answer at 11:00 a.m.•1710071499 | INSERT INTO table_name VALUES (memory, Nevile Henderson position, Nevile Henderson was British ambassador to Berlin ,Sherlok Holms, 1710071499); INSERT INTO table_name VALUES (memory, Nevile Henderson task, Nevile Henderson was instructed by the Cabinet to deliver an ultimatum to Germany, Sherlok Holms, 1710071499); INSERT INTO table_name VALUES (memory, reacrion to ultimatum, ultimatum send from Nevile Henderson to Germany expired at 11:00 without reply, Sherlok Holms, 1710071499);
- |  |
+| Mahatma Gandhi•Explain the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement.•2407031545 | INSERT INTO work_space VALUES (memory, User wants to generate explanation of the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement, user/Mahatma Gandhi, 2407031545); |
 
  | element | function | comment |
 |----------|----------|----------|
