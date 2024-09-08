@@ -4,25 +4,25 @@ The first part os MINDS AI that should be created is simple text input. This wil
 List of elements to do:
 
 in progress:
-- user input
+- user input (generates memories mased on text input, they can contain tasks for M.I.N.D.S. system)
 
 main To Do:
-- memory to data converter
-- memory to task converter
-- data analyser
-- task analyser
-- text output
+- memory to data converter (takes memories and generate informations based on them)
+- memory to intentions converter (takes mamories and generates intentions based on them)
+- data analyser (can be more than one, compairs, modify, and combines informations into networks of wikipedia like definitions, and additional mrta informations)
+- intentions analyser (can be more than one, checks if user is allowed to ask for something and splits intentions into smaller intentions necesery for thei complitions)
+- text output (takes intentions, and informations, and generate text output)
 
 additional To Do:
-- text input
-- comaln line input
-- comand line output
-- screen input
-- immage input
-- immage output
-- GPIO input
-- GPIO output
-- scheduler
+- text input (unclear in necesery, takes text input, that isn't suposed to be command, and makes it memories)
+- comand line input (is specific input from computer text interface, generate memories)
+- comand line output (is specific interface with OS, generate output based on intentions, and informations)
+- immage input (takes imagges as input, and generates memories)
+- immage output (takes intentions, and informations, and generate immage output)
+- screen input (is specific OS interface for interacting with GUI)
+- GPIO input (takes input from GPIO pins, ant turnes them into memories)
+- GPIO output (generates GPIO output based on intentions and memories)
+- scheduler (is bridge between two databases, takes tasks schedulrd to be done in future, and returns them in the right moment for them to be done)
 
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
