@@ -4,25 +4,25 @@ The first part os MINDS AI that should be created is simple text input. This wil
 List of elements to do:
 
 in progress:
-- user input (generates memories mased on text input, they can contain tasks for M.I.N.D.S. system)
+- user input
 
 main To Do:
-- memory to data converter (takes memories and generate informations based on them)
-- memory to intentions converter (takes mamories and generates intentions based on them)
-- data analyser (can be more than one, compairs, modify, and combines informations into networks of wikipedia like definitions, and additional mrta informations)
-- intentions analyser (can be more than one, checks if user is allowed to ask for something and splits intentions into smaller intentions necesery for thei complitions)
-- text output (takes intentions, and informations, and generate text output)
+- memory to data converter
+- memory to intentions converter
+- data analyser
+- intentions analyser
+- text output
 
 additional To Do:
-- text input (unclear in necesery, takes text input, that isn't suposed to be command, and makes it memories)
-- comand line input (is specific input from computer text interface, generate memories)
-- comand line output (is specific interface with OS, generate output based on intentions, and informations)
-- immage input (takes imagges as input, and generates memories)
-- immage output (takes intentions, and informations, and generate immage output)
-- screen input (is specific OS interface for interacting with GUI)
-- GPIO input (takes input from GPIO pins, ant turnes them into memories)
-- GPIO output (generates GPIO output based on intentions and memories)
-- scheduler (is bridge between two databases, takes tasks schedulrd to be done in future, and returns them in the right moment for them to be done)
+- text input
+- comand line input
+- comand line output
+- immage input
+- immage output
+- screen input
+- GPIO input
+- GPIO output
+- scheduler
 
 Database element:
 | type (of element) | title (helps in finding right element) | content () | source (who or where is it from) | timestamp | (comment) |
@@ -55,18 +55,18 @@ example filling missing data:
 
  | element | function | comment |
 |----------|----------|----------|
-| user input | This input can cuse generatipon of task element |  |
+| user input | generates memories mased on text input, they can contain tasks for M.I.N.D.S. system, this input can cuse generatipon of task element |  |
 | memory to data converter | this scripts is generating small pices of informations based on memories |  |
-| memory to task converter | this scripts is generating tasks based on memories |  |
-| data analyser | this scripts is braking down and combining data elements to analize them | there are going to be more than one |
-| task analyser | this scripts breaks down task to create simple tasks, that can be fufiled by other scripts |  |
-| text output | this scripts is generating text oiutput |  |
-| text input | This input is ment wot inputing data without sreating tasaks | might removed, and replaced with something else |
-| comaln line input | relativliy simple and low cost method of interacting with operating system |  |
-| comand line output | relativliy simple and low cost method of interacting with operating system |  |
-| screen input | input used for browsing internet | alternative specific interfaces are going to be added, this is generic interface |
+| memory to intentions converter | this scripts is generating intentions based on memories |  |
+| data analyser | compairs, modify, and combines informations into networks of wikipedia like definitions, and additional mrta informations | there are going to be more than one |
+| intentions analyser | checks if user is allowed to ask for something and splits intentions into smaller intentions necesery for thei complitions |  |
+| text output | this scripts is generating text oiutput based on intentions, and informations |  |
+| text input | This input is ment wot inputing data without sreating tasaks, it function is to get informations, and ignore any potencial comands | might be removed, and replaced with something else |
+| comaln line input | spesific, and relativliy simple and low cost method of interacting with operating system |  |
+| comand line output | spesific, and relativliy simple and low cost method of interacting with operating system |  |
 | immage input | this input is ment to accept files, and camera input for use to identify objects, and other immage oriented tasks |  |
 | immage output | immage generating script | the description of immage is going to be build using descriptions of element of that immage until description is detailed enouth for that script |
+| screen input | is specific OS interface for interacting with GUI | alternative specific interfaces are going to be added, this is generic interface |
 | GPIO input | relativliy simple and low cost method of controling simple electronics like servo mechanism, leds, etc  |  |
 | GPIO output | relativliy simple and low cost method of reciving data from electronics like distance sensors, co2 detectors, load cels, etc |  |
 | scheduler | this is going to be cost effective whay of setting tasks to be done in the future using seperete database using timer to put correct tasks back to main database at the right moment | this is going to prevent tasks scheduled from taking up time of other scripts |
