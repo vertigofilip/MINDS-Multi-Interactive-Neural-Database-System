@@ -1,0 +1,170 @@
+[
+  {
+      "document": "Sherlok Holms•At 9:00 a.m. the British ambassador to Berlin Nevile Henderson is instructed by the Cabinet to deliver an ultimatum to Germany which expired without answer at 11:00 a.m.•1710071499",
+      "summary": "INSERT INTO work_space VALUES (memory, Nevile Henderson position, Nevile Henderson was British ambassador to Berlin ,user/Sherlok Holms, 1710071499); INSERT INTO work_space VALUES (memory, Nevile Henderson task, Nevile Henderson was instructed by the Cabinet to deliver an ultimatum to Germany, user/Sherlok Holms, 1710071499); INSERT INTO work_space VALUES (memory, reacrion to ultimatum, ultimatum send from Nevile Henderson to Germany expired at 11:00 without reply, user/Sherlok Holms, 1710071499"
+  },
+  {
+        "document": "Adam Sandler•At 9:00 a.m. the British ambassador to Berlin Nevile Henderson is instructed by the Cabinet to deliver an ultimatum to Germany which expired without answer at 11:00 a.m.•1710071499" ,
+        "summary": "INSERT INTO work_space VALUES (memory, Nevile Henderson position, Nevile Henderson was British ambassador to Berlin ,user/Adam Sandler, 1710071499); INSERT INTO work_space VALUES (memory, Nevile Henderson task, Nevile Henderson was instructed by the Cabinet to deliver an ultimatum to Germany, user/Adam Sandler, 1710071499); INSERT INTO work_space VALUES (memory, reacrion to ultimatum, ultimatum send from Nevile Henderson to Germany expired at 11:00 without reply, user/Adam Sandler, 1710071499"
+  },
+  {
+        "document": "JOAN Cena•At 9:00 a.m. the British ambassador to Berlin Nevile Henderson is instructed by the Cabinet to deliver an ultimatum to Germany which expired without answer at 11:00 a.m.•1710071499",
+      "summary": "INSERT INTO work_space VALUES (memory, Nevile Henderson position, Nevile Henderson was British ambassador to Berlin ,user/JOAN Cena, 1710071499); INSERT INTO work_space VALUES (memory, Nevile Henderson task, Nevile Henderson was instructed by the Cabinet to deliver an ultimatum to Germany, user/JOAN Cena, 1710071499); INSERT INTO work_space VALUES (memory, reacrion to ultimatum, ultimatum send from Nevile Henderson to Germany expired at 11:00 without reply, user/JOAN Cena, 1710071499"
+  },
+  {
+        "document": "Adam Małysz•The Eiffel Tower (/ˈaɪfəl/ EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ) is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.•1710071387",
+      "summary": "INSERT INTO work_space VALUES (memory, Eiffel Tower location, The Eiffel Tower is located on the Champ de Mars in Paris, France, user/Adam Małysz, 1710071387);INSERT INTO work_space VALUES (memory, Eiffel Tower material, The Eiffel Tower is a wrought-iron lattice tower, user/Adam Małysz, 1710071387);INSERT INTO work_space VALUES (memory, Eiffel Tower engineer, The Eiffel Tower was named after engineer Gustave Eiffel, user/Adam Małysz, 1710071387);INSERT INTO work_space VALUES (memory, Eiffel Tower construction time, Gustave Eiffel's company designed and built the Eiffel Tower from 1887 to 1889, user/Adam Małysz, 1710071387);"
+  },
+  {
+        "document": "Gaius Julius Caesar•Bone forks have been found in archaeological sites of the Bronze Age Qijia culture (2400–1900 BC), the Shang dynasty (c. 1600–c. 1050 BC), as well as later Chinese dynasties.•1710071423",
+      "summary": "INSERT INTO work_space VALUES (memory, Bone forks in Qijia culture, Bone forks have been found in archaeological sites of the Bronze Age Qijia culture (2400–1900 BC), user/Gaius Julius Caesar, 1710071423);INSERT INTO work_space VALUES (memory, Bone forks in Shang dynasty, Bone forks have been found in archaeological sites of the Shang dynasty (c. 1600–c. 1050 BC), user/Gaius Julius Caesar, 1710071423);INSERT INTO work_space VALUES (memory, Bone forks in later Chinese dynasties, Bone forks have also been found in archaeological sites of later Chinese dynasties, user/Gaius Julius Caesar, 1710071423);"
+  },
+  {
+        "document": "Marie Curie•The Library of Alexandria, one of the largest and most significant libraries of the ancient world, was part of a larger research institution called the Musaeum of Alexandria, where many of the most famous thinkers of the ancient world studied.•1710082001",
+      "summary": "INSERT INTO work_space VALUES (memory, Library of Alexandria significance, The Library of Alexandria was one of the largest and most significant libraries of the ancient world, user/Marie Curie, 1710082001);INSERT INTO work_space VALUES (memory, Library of Alexandria institution, The Library of Alexandria was part of the Musaeum of Alexandria, a larger research institution, user/Marie Curie, 1710082001);INSERT INTO work_space VALUES (memory, Library of Alexandria scholars, The Musaeum of Alexandria was where many of the most famous thinkers of the ancient world studied, user/Marie Curie, 1710082001);"
+  },
+  {
+        "document": "Leonardo da Vinci•The Rosetta Stone, discovered in 1799, was the key to understanding Egyptian hieroglyphs as it contained a decree in three scripts: Greek, Demotic, and hieroglyphic.•1710092312",
+      "summary": "INSERT INTO work_space VALUES (memory, Rosetta Stone discovery, The Rosetta Stone was discovered in 1799, user/Leonardo da Vinci, 1710092312);INSERT INTO work_space VALUES (memory, Rosetta Stone significance, The Rosetta Stone was the key to understanding Egyptian hieroglyphs, user/Leonardo da Vinci, 1710092312);INSERT INTO work_space VALUES (memory, Rosetta Stone scripts, The Rosetta Stone contained a decree in Greek, Demotic, and hieroglyphic scripts, user/Leonardo da Vinci, 1710092312);"
+  },
+  {
+        "document": "Neil Armstrong•The Great Wall of China stretches over 13,000 miles and was primarily built as a defense mechanism against invasions from the north.•1710100543",
+      "summary": "INSERT INTO work_space VALUES (memory, Great Wall of China length, The Great Wall of China stretches over 13,000 miles, user/Neil Armstrong, 1710100543);INSERT INTO work_space VALUES (memory, Great Wall of China purpose, The Great Wall was primarily built as a defense mechanism against northern invasions, user/Neil Armstrong, 1710100543);"
+  },
+  {
+        "document": "Charles Darwin•Saturn's rings are made up of ice and rock particles of various sizes, some as small as dust grains and others as large as mountains.•1710110422",
+      "summary": "INSERT INTO work_space VALUES (memory, Saturn's rings composition, Saturn's rings are made up of ice and rock particles, user/Charles Darwin, 1710110422);INSERT INTO work_space VALUES (memory, Saturn's rings particle size, The particles in Saturn's rings vary in size from as small as dust grains to as large as mountains, user/Charles Darwin, 1710110422);"
+  },
+  {
+        "document": "Amelia Earhart•The Marianas Trench is the deepest part of the world's oceans, reaching a depth of more than 36,000 feet (nearly 11 kilometers).•1710120589",
+      "summary": "INSERT INTO work_space VALUES (memory, Marianas Trench depth, The Marianas Trench is the deepest part of the world's oceans, reaching more than 36,000 feet in depth, user/Amelia Earhart, 1710120589);INSERT INTO work_space VALUES (memory, Marianas Trench location, The Marianas Trench is located in the Pacific Ocean, user/Amelia Earhart, 1710120589);"
+  },
+  {
+        "document": "Nikola Tesla•The Aurora Borealis, or Northern Lights, are natural light displays in the Earth's sky, predominantly seen in the high-latitude regions around the Arctic and Antarctic.•1710130667",
+      "summary": "INSERT INTO work_space VALUES (memory, Aurora Borealis description, The Aurora Borealis or Northern Lights are natural light displays in the Earth's sky, user/Nikola Tesla, 1710130667);INSERT INTO work_space VALUES (memory, Aurora Borealis visibility, The Northern Lights are predominantly seen in the high-latitude regions around the Arctic and Antarctic, user/Nikola Tesla, 1710130667);"
+  },
+  {
+        "document": "Alan Turing, a pioneering mathematician and computer scientist, proposed the concept of the Turing Test in 1950 as a measure of artificial intelligence's ability to exhibit human-like behavior. • 1710141234",
+      "summary": "INSERT INTO work_space VALUES (memory, Turing Test concept, Alan Turing proposed the Turing Test in 1950 to assess AI's human-like behavior, user/Alan Turing, 1710141234);"
+  },
+  {
+        "document": "Jane Austen, a renowned English novelist of the 19th century, authored \"Pride and Prejudice,\" a novel that explores themes of social class and romance in Regency England. • 1710142156",
+"INSERT INTO work_space VALUES (memory, Pride and Prejudice author, Jane Austen wrote \"Pride and Prejudice\" in the 19th century, user/Jane Austen, 1710142156);"
+  },
+  {
+        "document": "Winston Churchill delivered his famous \"Blood, Toil, Tears, and Sweat\" speech to the House of Commons on May 13, 1940, rallying the British people during World War II. • 1710143122",
+      "summary": "INSERT INTO work_space VALUES (memory, Churchill speech, Winston Churchill delivered the \"Blood, Toil, Tears, and Sweat\" speech on May 13, 1940, user/Winston Churchill, 1710143122);"
+  },
+  {
+        "document": "Albert Einstein, a theoretical physicist, published his general theory of relativity in 1915, revolutionizing our understanding of gravity and the cosmos. • 1710145088",
+      "summary": "INSERT INTO work_space VALUES (memory, General Theory of Relativity publication, Albert Einstein published his general theory of relativity in 1915, user/Albert Einstein, 1710145088);"
+  },
+  {
+        "document": "Isaac Newton, born on January 4, 1643, in Woolsthorpe, Lincolnshire, England, was an English mathematician, physicist, and astronomer. • 1710152176",
+      "summary": "INSERT INTO work_space VALUES (memory, Isaac Newton birth date, Isaac Newton was born on January 4, 1643, in Woolsthorpe, Lincolnshire, England, user/Isaac Newton, 1710152176);INSERT INTO work_space VALUES (memory, Isaac Newton nationality, Isaac Newton was English, user/Isaac Newton, 1710152176);"
+  },
+  {
+        "document": "Mozart composed over 600 works, including symphonies, operas like \"The Magic Flute\" and \"Don Giovanni,\" and piano concertos. • 1710156543",
+      "summary": "INSERT INTO work_space VALUES (memory, Mozart compositions, Mozart composed over 600 works, including symphonies and operas like \"The Magic Flute\" and \"Don Giovanni,\" user/Mozart, 1710156543);INSERT INTO work_space VALUES (memory, Mozart piano concertos, Mozart composed numerous piano concertos during his career, user/Mozart, 1710156543);"
+  },
+  {
+        "document": "Mozart's music profoundly influenced subsequent Western classical music composers, and his work remains widely performed and studied today. • 1710157655",
+      "summary": "INSERT INTO work_space VALUES (memory, Mozart influence, Mozart's music profoundly influenced subsequent Western classical composers, user/Mozart, 1710157655);INSERT INTO work_space VALUES (memory, Mozart legacy, Mozart's work continues to be widely performed and studied in the present day, user/Mozart, 1710157655);"
+  },
+  {
+        "document": "Marie Curie, born on November 7, 1867, in Warsaw, Poland (then part of the Russian Empire), was a physicist and chemist. • 1710158767",
+      "summary": "INSERT INTO work_space VALUES (memory, Marie Curie birth date, Marie Curie was born on November 7, 1867, in Warsaw, Poland, user/Marie Curie, 1710158767);INSERT INTO work_space VALUES (memory, Marie Curie nationality, Marie Curie was Polish, user/Marie Curie, 1710158767);"
+  },
+  {
+        "document": "Curie conducted pioneering research on radioactivity and discovered the elements polonium and radium, receiving Nobel Prizes in Physics (1903) and Chemistry (1911). • 1710159878",
+      "summary": "INSERT INTO work_space VALUES (memory, Curie radioactivity research, Marie Curie conducted pioneering research on radioactivity, user/Marie Curie, 1710159878);INSERT INTO work_space VALUES (memory, Curie Nobel Prizes, Marie Curie received Nobel Prizes in Physics (1903) and Chemistry (1911) for her discoveries, user/Marie Curie, 1710159878);"
+  },
+  {
+        "document": "Marie Curie's work laid the foundation for advancements in medical treatments and the understanding of atomic structure, leaving a lasting legacy in science. • 1710160989",
+      "summary": "INSERT INTO work_space VALUES (memory, Curie legacy, Marie Curie's work laid the foundation for advancements in medical treatments and atomic structure, user/Marie Curie, 1710160989);INSERT INTO work_space VALUES (memory, Curie recognition, Marie Curie is widely recognized as a pioneer in the field of radioactivity and nuclear science, user/Marie Curie, 1710160989);"
+  },
+  {
+        "document": "Neil Armstrong•Generate a short story about a futuristic city where artificial intelligence governs every aspect of daily life.•1710100543",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate a short story about a futuristic city where artificial intelligence governs every aspect of daily life, user/Neil Armstrong, 1710100543);"
+  },
+  {
+        "document": "Marie Curie•Create a dialogue between two AI assistants discussing the ethics of autonomous decision-making in healthcare.•2407031000",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate a dialogue between two AI assistants discussing the ethics of autonomous decision-making in healthcare, user/Marie Curie, 2407031000);"
+  },
+  {
+        "document": "Alan Turing•Imagine a scenario where AI develops emotions and forms its own society by the year 2100.•2407031015",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate a storry about a scenario where AI develops emotions and forms its own society by the year 2100, user/Alan Turing, 2407031015);"
+  },
+  {
+        "document": "Stephen Hawking•Write an essay on the potential risks and benefits of uploading human consciousness into a digital format by 2200.•2407031030",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to an essay on the potential risks and benefits of uploading human consciousness into a digital format by 2200, user/Stephen Hawking, 2407031030);"
+  },
+  {
+        "document": "Jane Austen•Can you provide a summary of the key themes in \"Pride and Prejudice\"?•2407031100",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate  a summary of the key themes in \"Pride and Prejudice\", user/Jane Austen, 2407031100);"
+  },
+  {
+        "document": "Albert Einstein•Explain the theory of relativity in simple terms.•2407031115",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanaition of the theory of relativity in simple terms, user/Albert Einstein, 2407031115);"
+  },
+  {
+        "document": "Leonardo da Vinci•Describe the techniques used in your painting \"Mona Lisa\" and its historical significance.•2407031130",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate description of  the techniques used in your painting \"Mona Lisa\" and its historical significance, user/Leonardo da Vinci, 2407031130);"
+  },
+  {
+        "document": "Martin Luther King Jr.•What were the main goals of the Civil Rights Movement in the 1960s?•2407031145",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate list of the main goals of the Civil Rights Movement in the 1960s, user/Martin Luther King Jr., 2407031145);"
+  },
+  {
+        "document": "Marie Curie•How did your research contribute to our understanding of radioactivity?•2407031200",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate overviev of my research contribiution to our understanding of radioactivity, user/Marie Curie, 2407031200);"
+  },
+  {
+        "document": "Charles Darwin•Could you explain the main principles of natural selection and their impact on biology?•2407031215",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanation of the main principles of natural selection and their impact on biology, user/Charles Darwin, 2407031215);"
+  },
+  {
+        "document": "Emily Dickinson•Provide an analysis of the themes and symbolism in your poem \"Hope is the thing with feathers\".•2407031230",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate an analysis of the themes and symbolism in your poem \"Hope is the thing with feathers\", user/Emily Dickinson, 2407031230);"
+  },
+  {
+        "document": "Isaac Newton•What were your contributions to the field of physics, particularly in mechanics and optics?•2407031245",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate lists of my contributions to the field of physics, particularly in mechanics and optics, user/Isaac Newton, 2407031245);"
+  },
+  {
+        "document": "Marie Curie•Explain the process of discovering radium and its implications for science and medicine.•2407031330",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanaition of the the process of discovering radium and its implications for science and medicine, user/Marie Curie,2407031330 );"
+  },
+  {
+        "document": "Albert Einstein•What are the key concepts of the theory of general relativity and how do they differ from special relativity?•2407031400",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate list of key concepts of the theory of general relativity and how do they differ from special relativity, user/Albert Einstein, 2407031400);"
+  },
+  {
+        "document": "Jane Austen•Discuss the social conventions and gender roles depicted in \"Emma\" and their relevance to contemporary society.•2407031415",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to discuss the social conventions and gender roles depicted in \"Emma\" and their relevance to contemporary society, user/Jane Austen, 2407031415);"
+  },
+  {
+        "document": "Martin Luther King Jr.•Can you summarize the key points of your \"I Have a Dream\" speech and its historical significance?•2407031430",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate summary of the key points of your \"I Have a Dream\" speech and its historical significance, user/Martin Luther King Jr., 2407031430);"
+  },
+  {
+        "document": "Nikola Tesla•Explain the concept of alternating current (AC) and its importance in electricity distribution.•2407031445",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanation of concept of alternating current (AC) and its importance in electricity distribution, user/Nikola Tesla, 2407031445);"
+  },
+  {
+        "document": "Emily Dickinson•Discuss the themes of mortality and spirituality in your poetry, focusing on poems such as \"Because I could not stop for Death\".•2407031500",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to discuss the themes of mortality and spirituality in your poetry, focusing on poems such as \"Because I could not stop for Death\", user/Emily Dickinson, 2407031500);"
+  },
+  {
+        "document": "Charles Darwin•What evidence did you gather to support the theory of evolution by natural selection? How did this theory revolutionize biology?•2407031515",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate a list of evidence to support the theory of evolution by natural selection, user/Charles Darwin, 2407031515);INSERT INTO work_space VALUES (memory, User wants to generate explanation of how evolution by natural selection revolutionize biology, user/Charles Darwin, 2407031515);"
+  },
+  {
+        "document": "Frida Kahlo•Describe the influence of Mexican culture and indigenous traditions on your artwork, particularly in paintings like \"The Broken Column\".•2407031530",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanation of the influence of Mexican culture and indigenous traditions on your artwork, particularly in paintings like \"The Broken Column\", user/Frida Kahlo, 2407031530);"
+  },
+  {
+        "document": "Mahatma Gandhi•Explain the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement.•2407031545",
+      "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanation of the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement, user/Mahatma Gandhi, 2407031545);"
+  }
+]
