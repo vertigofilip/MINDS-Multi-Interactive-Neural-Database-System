@@ -49,7 +49,7 @@
   },
   {
         "document": "Jane Austen, a renowned English novelist of the 19th century, authored \"Pride and Prejudice,\" a novel that explores themes of social class and romance in Regency England. • 1710142156",
-"INSERT INTO work_space VALUES (memory, Pride and Prejudice author, Jane Austen wrote \"Pride and Prejudice\" in the 19th century, user/Jane Austen, 1710142156);"
+      "summary": "INSERT INTO work_space VALUES (memory, Pride and Prejudice author, Jane Austen wrote \"Pride and Prejudice\" in the 19th century, user/Jane Austen, 1710142156);"
   },
   {
         "document": "Winston Churchill delivered his famous \"Blood, Toil, Tears, and Sweat\" speech to the House of Commons on May 13, 1940, rallying the British people during World War II. • 1710143122",
