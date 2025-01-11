@@ -166,5 +166,45 @@
   {
         "document": "Mahatma Gandhi•Explain the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement.•2407031545",
       "summary": "INSERT INTO work_space VALUES (memory, User wants to generate explanation of the principles of satyagraha (nonviolent resistance) and its role in the Indian independence movement, user/Mahatma Gandhi, 2407031545);"
+  },
+    {
+    "document": "Galileo Galilei•Galileo's use of the telescope in 1609 revolutionized astronomy, leading to the discovery of Jupiter's moons and the phases of Venus.•1710171234",
+    "summary": "INSERT INTO work_space VALUES (memory, Galileo telescope use, Galileo used the telescope in 1609 to revolutionize astronomy, user/Galileo Galilei, 1710171234); INSERT INTO work_space VALUES (memory, Jupiter's moons discovery, Galileo discovered Jupiter's moons using the telescope, user/Galileo Galilei, 1710171234); INSERT INTO work_space VALUES (memory, Venus phases discovery, Galileo observed the phases of Venus, supporting the heliocentric model, user/Galileo Galilei, 1710171234);"
+  },
+  {
+    "document": "Ada Lovelace•Ada Lovelace is often considered the first computer programmer for her work on Charles Babbage's Analytical Engine, where she wrote the first algorithm intended for machine processing.•1710182345",
+    "summary": "INSERT INTO work_space VALUES (memory, Ada Lovelace contribution, Ada Lovelace is considered the first computer programmer, user/Ada Lovelace, 1710182345); INSERT INTO work_space VALUES (memory, Analytical Engine algorithm, Ada Lovelace wrote the first algorithm for Charles Babbage's Analytical Engine, user/Ada Lovelace, 1710182345);"
+  },
+  {
+    "document": "Thomas Edison•Thomas Edison's invention of the phonograph in 1877 marked the first time sound could be recorded and reproduced.•1710193456",
+    "summary": "INSERT INTO work_space VALUES (memory, Phonograph invention, Thomas Edison invented the phonograph in 1877, user/Thomas Edison, 1710193456); INSERT INTO work_space VALUES (memory, Phonograph significance, The phonograph was the first device to record and reproduce sound, user/Thomas Edison, 1710193456);"
+  },
+  {
+    "document": "Rosa Parks•Rosa Parks' refusal to give up her bus seat to a white passenger in Montgomery, Alabama, in 1955 sparked the Montgomery Bus Boycott, a pivotal event in the Civil Rights Movement.•1710204567",
+    "summary": "INSERT INTO work_space VALUES (memory, Rosa Parks bus incident, Rosa Parks refused to give up her bus seat in Montgomery, Alabama, in 1955, user/Rosa Parks, 1710204567); INSERT INTO work_space VALUES (memory, Montgomery Bus Boycott, Rosa Parks' action sparked the Montgomery Bus Boycott, a key event in the Civil Rights Movement, user/Rosa Parks, 1710204567);"
+  },
+  {
+    "document": "Pablo Picasso•Pablo Picasso co-founded the Cubist movement in the early 20th century, revolutionizing European painting and sculpture with works like \"Les Demoiselles d'Avignon.\"•1710215678",
+    "summary": "INSERT INTO work_space VALUES (memory, Picasso Cubism, Pablo Picasso co-founded the Cubist movement, user/Pablo Picasso, 1710215678); INSERT INTO work_space VALUES (memory, Les Demoiselles d'Avignon, Picasso's \"Les Demoiselles d'Avignon\" revolutionized European art, user/Pablo Picasso, 1710215678);"
+  },
+  {
+    "document": "Florence Nightingale•Florence Nightingale, known as the founder of modern nursing, revolutionized healthcare during the Crimean War by improving sanitary conditions and patient care.•1710226789",
+    "summary": "INSERT INTO work_space VALUES (memory, Florence Nightingale nursing, Florence Nightingale is the founder of modern nursing, user/Florence Nightingale, 1710226789); INSERT INTO work_space VALUES (memory, Crimean War healthcare, Nightingale improved sanitary conditions and patient care during the Crimean War, user/Florence Nightingale, 1710226789);"
+  },
+  {
+    "document": "William Shakespeare•William Shakespeare's play \"Hamlet\" is renowned for its exploration of themes like revenge, madness, and the complexity of human nature.•1710237890",
+    "summary": "INSERT INTO work_space VALUES (memory, Hamlet themes, Shakespeare's \"Hamlet\" explores themes of revenge, madness, and human nature, user/William Shakespeare, 1710237890); INSERT INTO work_space VALUES (memory, Shakespeare legacy, William Shakespeare is one of the most influential playwrights in history, user/William Shakespeare, 1710237890);"
+  },
+  {
+    "document": "Cleopatra•Cleopatra VII, the last active ruler of the Ptolemaic Kingdom of Egypt, is famous for her political acumen and relationships with Julius Caesar and Mark Antony.•1710248901",
+    "summary": "INSERT INTO work_space VALUES (memory, Cleopatra reign, Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt, user/Cleopatra, 1710248901); INSERT INTO work_space VALUES (memory, Cleopatra relationships, Cleopatra had significant relationships with Julius Caesar and Mark Antony, user/Cleopatra, 1710248901);"
+  },
+  {
+    "document": "Steve Jobs•Steve Jobs co-founded Apple Inc. in 1976 and played a pivotal role in revolutionizing personal computing, music, and mobile phones with products like the iPhone and iPod.•1710259012",
+    "summary": "INSERT INTO work_space VALUES (memory, Apple Inc. founding, Steve Jobs co-founded Apple Inc. in 1976, user/Steve Jobs, 1710259012); INSERT INTO work_space VALUES (memory, iPhone and iPod, Jobs revolutionized personal technology with the iPhone and iPod, user/Steve Jobs, 1710259012);"
+  },
+  {
+    "document": "Malala Yousafzai•Malala Yousafzai, a Pakistani activist for female education, became the youngest Nobel Prize laureate in 2014 after surviving an assassination attempt by the Taliban.•1710260123",
+    "summary": "INSERT INTO work_space VALUES (memory, Malala activism, Malala Yousafzai is a Pakistani activist for female education, user/Malala Yousafzai, 1710260123); INSERT INTO work_space VALUES (memory, Malala Nobel Prize, Malala became the youngest Nobel Prize laureate in 2014, user/Malala Yousafzai, 1710260123);"
   }
 ]
