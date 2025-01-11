@@ -206,5 +206,45 @@
   {
     "document": "Malala Yousafzai•Malala Yousafzai, a Pakistani activist for female education, became the youngest Nobel Prize laureate in 2014 after surviving an assassination attempt by the Taliban.•1710260123",
     "summary": "INSERT INTO work_space VALUES (memory, Malala activism, Malala Yousafzai is a Pakistani activist for female education, user/Malala Yousafzai, 1710260123); INSERT INTO work_space VALUES (memory, Malala Nobel Prize, Malala became the youngest Nobel Prize laureate in 2014, user/Malala Yousafzai, 1710260123);"
+  },
+    {
+    "document": "Nikola Tesla•Nikola Tesla's development of alternating current (AC) power systems in the late 19th century revolutionized electrical engineering and power distribution.•1710271234",
+    "summary": "INSERT INTO work_space VALUES (memory, Tesla AC development, Nikola Tesla developed alternating current (AC) power systems, user/Nikola Tesla, 1710271234); INSERT INTO work_space VALUES (memory, AC revolution, Tesla's AC systems revolutionized electrical engineering and power distribution, user/Nikola Tesla, 1710271234);"
+  },
+  {
+    "document": "Vincent van Gogh•Vincent van Gogh's painting \"Starry Night,\" created in 1889, is celebrated for its expressive use of color and emotional depth, despite being painted during his time in an asylum.•1710282345",
+    "summary": "INSERT INTO work_space VALUES (memory, Starry Night creation, Vincent van Gogh painted \"Starry Night\" in 1889, user/Vincent van Gogh, 1710282345); INSERT INTO work_space VALUES (memory, Starry Night significance, \"Starry Night\" is renowned for its expressive color and emotional depth, user/Vincent van Gogh, 1710282345);"
+  },
+  {
+    "document": "Maya Angelou•Maya Angelou's autobiographical work \"I Know Why the Caged Bird Sings\" (1969) is a powerful exploration of identity, racism, and resilience in the face of adversity.•1710293456",
+    "summary": "INSERT INTO work_space VALUES (memory, Caged Bird Sings, Maya Angelou wrote \"I Know Why the Caged Bird Sings\" in 1969, user/Maya Angelou, 1710293456); INSERT INTO work_space VALUES (memory, Caged Bird themes, The book explores themes of identity, racism, and resilience, user/Maya Angelou, 1710293456);"
+  },
+  {
+    "document": "Albert Schweitzer•Albert Schweitzer, a theologian and physician, founded a hospital in Lambaréné, Gabon, in 1913, dedicating his life to providing medical care in Africa.•1710304567",
+    "summary": "INSERT INTO work_space VALUES (memory, Schweitzer hospital, Albert Schweitzer founded a hospital in Lambaréné, Gabon, in 1913, user/Albert Schweitzer, 1710304567); INSERT INTO work_space VALUES (memory, Schweitzer mission, Schweitzer dedicated his life to providing medical care in Africa, user/Albert Schweitzer, 1710304567);"
+  },
+  {
+    "document": "Coco Chanel•Coco Chanel revolutionized women's fashion in the early 20th century by introducing timeless designs like the little black dress and the Chanel suit.•1710315678",
+    "summary": "INSERT INTO work_space VALUES (memory, Chanel fashion, Coco Chanel revolutionized women's fashion in the early 20th century, user/Coco Chanel, 1710315678); INSERT INTO work_space VALUES (memory, Little black dress, Chanel introduced the iconic little black dress, user/Coco Chanel, 1710315678);"
+  },
+  {
+    "document": "Sigmund Freud•Sigmund Freud, the founder of psychoanalysis, introduced groundbreaking theories about the unconscious mind, dreams, and the structure of personality.•1710326789",
+    "summary": "INSERT INTO work_space VALUES (memory, Freud psychoanalysis, Sigmund Freud founded psychoanalysis, user/Sigmund Freud, 1710326789); INSERT INTO work_space VALUES (memory, Freud theories, Freud introduced theories about the unconscious mind, dreams, and personality, user/Sigmund Freud, 1710326789);"
+  },
+  {
+    "document": "Nelson Mandela•Nelson Mandela, after 27 years in prison, became South Africa's first black president in 1994, leading the country through a transition from apartheid to democracy.•1710337890",
+    "summary": "INSERT INTO work_space VALUES (memory, Mandela presidency, Nelson Mandela became South Africa's first black president in 1994, user/Nelson Mandela, 1710337890); INSERT INTO work_space VALUES (memory, Mandela legacy, Mandela led South Africa's transition from apartheid to democracy, user/Nelson Mandela, 1710337890);"
+  },
+  {
+    "document": "Marie Antoinette•Marie Antoinette, the last Queen of France before the French Revolution, is often remembered for her lavish lifestyle and the phrase \"Let them eat cake.\"•1710348901",
+    "summary": "INSERT INTO work_space VALUES (memory, Marie Antoinette reign, Marie Antoinette was the last Queen of France before the French Revolution, user/Marie Antoinette, 1710348901); INSERT INTO work_space VALUES (memory, Marie Antoinette lifestyle, Marie Antoinette was known for her lavish lifestyle, user/Marie Antoinette, 1710348901);"
+  },
+  {
+    "document": "Stephen Hawking•Stephen Hawking's work on black holes and the nature of the universe, including his book \"A Brief History of Time,\" made complex scientific concepts accessible to the public.•1710359012",
+    "summary": "INSERT INTO work_space VALUES (memory, Hawking black holes, Stephen Hawking made significant contributions to the study of black holes, user/Stephen Hawking, 1710359012); INSERT INTO work_space VALUES (memory, A Brief History of Time, Hawking's book made complex scientific concepts accessible, user/Stephen Hawking, 1710359012);"
+  },
+  {
+    "document": "Frida Kahlo•Frida Kahlo's self-portraits, such as \"The Two Fridas,\" are celebrated for their vivid colors and exploration of identity, pain, and Mexican culture.•1710360123",
+    "summary": "INSERT INTO work_space VALUES (memory, Kahlo self-portraits, Frida Kahlo is known for her vivid self-portraits, user/Frida Kahlo, 1710360123); INSERT INTO work_space VALUES (memory, The Two Fridas, \"The Two Fridas\" explores themes of identity, pain, and Mexican culture, user/Frida Kahlo, 1710360123);"
   }
 ]
